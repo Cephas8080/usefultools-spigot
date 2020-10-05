@@ -1,0 +1,5 @@
+name: Usefultools
+version: ${project.version}
+main: com.cephas.usefultools.Usefultools
+api-version: 1.16
+description: hello
